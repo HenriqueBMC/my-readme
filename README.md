@@ -40,7 +40,12 @@
 
  ## Licença
 
-    [h]()
+ [Licença MIT](LICENSE)
+
 
  ## Autores
+
+ ### Desensvolvido por 
+ ![HBMC](.github/assets/images/logo.jpg)
+
  HenriqueBMC
